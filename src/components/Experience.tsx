@@ -9,7 +9,7 @@ export default function Experience() {
           key={item.id}
           direction="column"
           justify="space-between"
-          className="hover:bg-[#0F1932] hover:shadow-xl hover:shadow-blue-900 p-5 rounded-xl">
+          className=" p-5 rounded-xl">
           <Flex justify="space-be tween" gap={20}>
             <Text fz={13} c="gray" className="w-1/4">
               {item.date}
