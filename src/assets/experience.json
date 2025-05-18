@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "date": "July 2024 - Present",
+    "position": "Mobile & Web Developer",
+    "company": "IntelliSmart Technology Incorporated",
+    "description": "Developed cross-platform applications using React Native (TSX) for mobile and React (TSX) for web, implementing responsive and dynamic user interfaces. Effectively managed global state using Zustand, and handled asynchronous and complex data operations with TanStack Query. Designed and built modern, visually appealing UIs with Tailwind CSS, Mantine, and various component libraries to ensure consistency, accessibility, and maintainability across platforms.",
+    "stacks": [
+      "React",
+      "Mantine",
+      "TypeScript",
+      "TanStack",
+      "Zustand",
+      "Tailwind",
+      "Tabler-Icons"
+    ]
+  },
+  {
+    "id": 2,
+    "date": "January 2024 - July 2024",
+    "position": "Junior Web Developer",
+    "company": "Endless Logic Innovations Corp.",
+    "description": "Worked as a Web Developer, building full-stack applications using PHP for backend development and React (JSX) for the frontend. Created responsive user interfaces and reusable components in React to enhance user experience and code maintainability. Developed core backend logic and implemented database interactions in PHP to support dynamic web functionalities and data-driven features.",
+    "stacks": [
+      "React",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "Express JS",
+      "React-Bootstrap"
+    ]
+  },
+  {
+    "id": 3,
+    "date": "July 2023 - January 2024",
+    "position": "Junior Web Developer",
+    "company": "Slash Tech Solutions Corp.",
+    "description": "Worked as a React (JSX) Developer for 6 months on a full-scale Human Resource Information System (HRIS) project. Developed responsive and reusable UI components, implementing core HR  features such as Timekeeping, Payroll, Attendance, and Employee Management. Collaborated closely with designers to translate mockups into clean, functional interfaces, ensuring a seamless user experience across modules. Focused on building modular and maintainable components to support long-term scalability and system performance.",
+    "stacks": [
+      "PHP",
+      "MySQL",
+      "Laragon",
+      "Bootstrap",
+      "FontAwesome",
+      "GoogleFonts"
+    ]
+  }
+]
